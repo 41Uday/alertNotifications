@@ -1,0 +1,64 @@
+/* Write your CSS here */
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 50px;
+}
+
+.head {
+  font-family: 'Roboto';
+}
+
+.card-1-an {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.i-card-1-an {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  font-family: 'Roboto';
+  font-size: 22px;
+  color: #2dca73;
+}
+
+.card-2-an {
+  display: flex;
+  flex-direction: column;
+}
+
+.icon {
+  margin-right: 15px;
+}
+
+.p-1 {
+  font-size: 18px;
+  font-family: 'Roboto';
+  color: #64748b;
+  padding-left: 40px;
+  margin: 25px;
+  padding-right: 20px;
+}
+
+.an-cont {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.i-card-2-an {
+  color: #ff0b37;
+}
+
+.i-card-3-an {
+  color: #ffb800;
+}
+
+.i-card-4-an {
+  color: #0f81e0;
+}
